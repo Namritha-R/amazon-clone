@@ -36,9 +36,8 @@ Then, open your browser and go to: `http://localhost:8000`
 
 ## 📸 Screenshots
 
-*(Add a screenshot of your beautiful project here! To do this, take a screenshot of your website, save it in this folder as `screenshot.png`, and uncomment the line below)*
 
-<!-- ![Amazon Clone Screenshot](./screenshot.png) -->
+![Amazon Clone Screenshot](./screenshot.png) 
 
 ---
 *Disclaimer: This is a clone created for educational purposes only. It is not affiliated with Amazon.*
